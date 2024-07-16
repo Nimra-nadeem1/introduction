@@ -1,0 +1,127 @@
+body{
+    margin: 0%;
+}
+
+.name{
+    /* background-color: blanchedalmond; */
+    height: 100px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.name p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.name h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.background{
+    /* background-color: aquamarine; */
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.background h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.background h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.background p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.bold{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.interest {
+    /* background-color:aqua; */
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.interest h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.interest p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.hobbies{
+    /* background-color: rgb(236, 139, 243); */
+    height: auto;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.dot{
+    font-weight: 900;
+}
+
+.hobbies h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hobbies p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.goals{
+    /* background-color: rgb(134, 234, 131); */
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.goals h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.goals p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.thanks{
+    /* background-color: rgb(92, 168, 240); */
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.thanks h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    display: flex;
+}
+
+.pic{
+    padding-right: 2%;
+}
+
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 2%;
+}
